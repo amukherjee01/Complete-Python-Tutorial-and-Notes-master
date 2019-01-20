@@ -128,3 +128,7 @@ for j in range(1,num+1):
     for i in range(j,0,-1):
         print(i,end=" ")
     print("")'''
+
+
+
+#hello
