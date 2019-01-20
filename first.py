@@ -182,7 +182,7 @@ tech = "digitallync"
 
 ##str1  + str2 ---> "+"
 
-##name = "khan"
+##name = "Mukherjee"
 ##tech = " python"
 ##print(name + tech)
 ##print(name)
@@ -190,7 +190,7 @@ tech = "digitallync"
 
 ##str int ---> "," ---> print
 
-name = "khan"  # str ---> %s 
+name = "Mukherjee"  # str ---> %s 
 marks = 70 # int  ---> %d
 
 ##print(name , marks)
@@ -200,7 +200,7 @@ marks = 70 # int  ---> %d
 ##---------------
 ##static storage
 
-##print("khan has secured 70 marks ")
+##print("Mukherjee has secured 70 marks ")
 
 ##print("%s has secured %d %% marks " %(name , marks ))
 
@@ -235,7 +235,7 @@ marks = 70 # int  ---> %d
 ##print(type(a))
 
 
-##name = "khan"
+##name = "Mukherjee"
 ##marks = 70
 ##stmt = name + str(marks)
 ##print(stmt)
@@ -275,7 +275,7 @@ marks = 70 # int  ---> %d
 ##-> parameterised --> (<something>)
 ##-> attribute fetching --> . 
 
-stmt = "khan is in Python class"
+stmt = "Mukherjee is in Python class"
 ##-> case based
 ##   lower()  , upper() , capitalize() , title() , swapcase()
 ##print(stmt.lower())
@@ -287,20 +287,20 @@ stmt = "khan is in Python class"
 ##-> checking
 ##in , not in  --> true / false 
 
-##print("khan" in stmt)
-##print("khan" not in stmt)
-##print("Khan".lower() in stmt)
+##print("Mukherjee" in stmt)
+##print("Mukherjee" not in stmt)
+##print("Mukherjee".lower() in stmt)
 ##print("z" not in stmt)
 
 
 ##is ,is not --> true / false --> ==
 ##stmt = stmt.lower()
 ##print(stmt)
-##newstmt = "khan is in Python class"
+##newstmt = "Mukherjee is in Python class"
 ##newstmt = newstmt.lower()
 ##print(newstmt)
-##print("khan is in Python class" is stmt)
-##print("khan is in Python class" is not stmt)
+##print("Mukherjee is in Python class" is stmt)
+##print("Mukherjee is in Python class" is not stmt)
 
 ##-> operational (they do not change string)
 ##
@@ -342,7 +342,7 @@ dia = "in india i tech python in class"
 ##words = dia.split()
 ##print(words)
 ##print(dia.split("tech"))
-##print("khan-30-python-hyd".split("-"))
+##print("Mukherjee-30-python-hyd".split("-"))
 
 ##print("-".join(words))
 
@@ -358,7 +358,7 @@ dia = "in india i tech python in class"
 ##print(dia.rstrip())
 
 
-##a = "khan"
+##a = "Mukherjee"
 ##print(a.zfill(5))
 ##
 ##b = 125
@@ -767,7 +767,7 @@ dia = "in india i tech python in class"
 
 ##print(nums[0:3])
 
-het = [1, "python" , "khan" , 67 , [10,"hyd" , "bom"]]
+het = [1, "python" , "Mukherjee" , 67 , [10,"hyd" , "bom"]]
 ##print(het[3])
 ##print(het[4])
 ##print(het[4][1])
@@ -1060,7 +1060,7 @@ mixed = [10,40,"python" , "hyd" , 400 , [1,3,"tech" , "lync"] , 600]
 ##
 ##emp form --> fname lname peradd preadd mob1 mob2
 ##
-##e1 --> khan mj hyd hyd 9 8
+##e1 --> Mukherjee mj hyd hyd 9 8
 ##e2 --> ravi v     bom  8 9
 ##e3 --> hari k     vjy  7 
 ##
@@ -1086,7 +1086,7 @@ mixed = [10,40,"python" , "hyd" , 400 , [1,3,"tech" , "lync"] , 600]
                  
 ##accessing of elements
 ##---------------------
-emp = {"name" :"khan" , "tech" : "python" , "age" : 100 }
+emp = {"name" :"Mukherjee" , "tech" : "python" , "age" : 100 }
 print(emp)
 ##<dictname>[<key>]
 ##print(emp["name"])
@@ -1102,8 +1102,8 @@ print(emp)
 ##print(emp)       
 
 
-##emp = {"name" :"khan" , (1,2,3) : "python" , "age" : 100 }  # valid
-##emp = {"name" :"khan" , [1,2,3] : "python" , "age" : 100 }  # invalid
+##emp = {"name" :"Mukherjee" , (1,2,3) : "python" , "age" : 100 }  # valid
+##emp = {"name" :"Mukherjee" , [1,2,3] : "python" , "age" : 100 }  # invalid
 
 ##deleting
 ##--------
@@ -1383,7 +1383,7 @@ s4 = {100}
 ##def printme(name): # name --> formal
 ##   print("hello " + name)
 ##   
-##printme("khan") # "khan" --> actual 
+##printme("Mukherjee") # "Mukherjee" --> actual 
 
 ##def addnums(a,b):
 ##   print(a+b)
@@ -1630,7 +1630,7 @@ avg()
 ##   print("emp name is " + name)
 ##   print("emp role is " + role)
 ##   
-##emp(role = "pd" , name = "khan" )
+##emp(role = "pd" , name = "Mukherjee" )
 ##emp("ravi")
 ##emp(role = "d")
 
@@ -1665,6 +1665,9 @@ avg()
 ##-> median , mode --> list as param
 ##
 ##Files and directories
+
+
+
 
 
 
